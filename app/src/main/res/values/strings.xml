@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarefa02</string>
+    <string name="label_cliente">Cliente</string>
+    <string name="hint_cliente">hint_cliente</string>
+    <string name="label_data">Data</string>
+    <string name="hint_data">hint_data</string>
+    <string name="label_produtos">Produtos</string>
+    <string name="hint_produtos">hint_produtos</string>
+    <string name="label_valor">Valor</string>
+    <string name="hint_valor">hint_produtos</string>
+    <string name="btn_exibir">Exibir</string>
+</resources>
